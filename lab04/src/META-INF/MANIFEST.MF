@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: fgolewski.lab04.Main04
+
